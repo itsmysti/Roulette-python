@@ -1,8 +1,21 @@
-Russian Roulette game made in python. The rules are simple: Each player has to press enter to pull the trigger and the player that hits the chambers that contains the bullet, losses!
+INSTRUCTIONS:
+    - OBJECTIVE: SURVIVE.
+    - A shotgun is loaded with a disclosed number of bullets, some of which will be blanks.
+    - Participants are given a set amount of lives (default = 4) to survive.
+    - You and 'The Dealer' will take turns shooting.
+    - Aim at The Dealer or at yourself - shooting yourself with a blank skips the Dealers turn.
+    - Participants are given items to help out. Use them wisely.
+    - if you have chosen wrongly, type 'q'/'quit'/'back' to go back.
 
-After the game is over the user has the option to restart the game.
+ITEMS:
+    • 🚬 = Gives the user an extra life.
+    • 🍺 = Racks the shotgun and the bullet inside will be discarded.
+    • 🔪 = Shotgun will deal double damage for one turn.
+    • 🔍 = User will see what bullet is in the chamber.
+    • ⛓ = Handcuffs the other person so they miss their next turn.
 
-Usage:
+Good Luck.
+
 
 Run it
 
@@ -10,5 +23,4 @@ Run it
  python roulette.py
 ```
 
-To pull the trigger press the enter key
-When the game is empty press y to restart the game or n to exit the game.
+
