@@ -1,4 +1,5 @@
 INSTRUCTIONS:
+   
     - OBJECTIVE: SURVIVE.
     - A shotgun is loaded with a disclosed number of bullets, some of which will be blanks.
     - Participants are given a set amount of lives (default = 4) to survive.
@@ -8,6 +9,7 @@ INSTRUCTIONS:
     - if you have chosen wrongly, type 'q'/'quit'/'back' to go back.
 
 ITEMS:
+    
     • 🚬 = Gives the user an extra life.
     • 🍺 = Racks the shotgun and the bullet inside will be discarded.
     • 🔪 = Shotgun will deal double damage for one turn.
